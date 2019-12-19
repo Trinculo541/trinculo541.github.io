@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Get hacked</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+			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
+			</data>
+			<key>IsRemovable</key>
+			<false/>
+			<key>Label</key>
+			<string>Viru5 for u5</string>
+			<key>PayloadDescription</key>
+			<string>Configures settings for a web clip</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.A46AAB19-7D85-4736-932C-980323AAC5D3</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>8F2065FE-7ED9-4D57-ADB7-696FB8C7DE8B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>https://hacktoberfest.digitalocean.com/profile </string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Your getting hacked</string>
+	<key>PayloadDisplayName</key>
+	<string>Viru5 for u5</string>
+	<key>PayloadIdentifier</key>
+	<string>Trinculo.Viru5 for u5.001</string>
+	<key>PayloadOrganization</key>
+	<string>Trinculo54</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>840F3F0D-38C0-45E4-9EBF-762F3567BBAB</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
